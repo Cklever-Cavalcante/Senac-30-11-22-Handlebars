@@ -13,3 +13,6 @@ https://sequelize.org/
 
 Handlebars:
 https://handlebarsjs.com/installation/#npm-or-yarn-recommended
+
+Body parser:
+https://www.npmjs.com/package/body-parser
