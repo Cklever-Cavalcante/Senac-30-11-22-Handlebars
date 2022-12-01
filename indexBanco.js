@@ -9,7 +9,6 @@ const Sequelize = require("sequelize");
 app.engine("handlebars", engine({ defaultLayout: "main" }));
 app.set("view engine", "handlebars");
 
-
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
