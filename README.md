@@ -16,3 +16,12 @@ https://handlebarsjs.com/installation/#npm-or-yarn-recommended
 
 Body parser:
 https://www.npmjs.com/package/body-parser
+
+HTTPS & SSL Certificate
+npm install --save cors
+npm install --save https
+npm install --save fs
+
+Gerar Certificados SSL Gratuito e outros
+https://pt.rakko.tools/tools/46/
+
