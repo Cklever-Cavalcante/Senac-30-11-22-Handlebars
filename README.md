@@ -28,3 +28,6 @@ npm install --save fs
 Gerar Certificados SSL Gratuito e outros
 https://pt.rakko.tools/tools/46/
 
+Hash criptografia seguranca
+
+npm install bcrypt
