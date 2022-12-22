@@ -39,4 +39,4 @@ https://www.tutsmake.com/node-js-express-insert-data-from-form-into-mysql-databa
 
 https://www.w3schools.com/nodejs/nodejs_mysql_insert.asp
 
-
+https://www.delftstack.com/howto/javascript/javascript-on-page-load/#:~:text=Another%20way%20to%20execute%20the%20JavaScript%20after%20the,does%2C%20this%20process%20then%20executes%20the%20JavaScript%20code.
