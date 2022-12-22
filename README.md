@@ -31,3 +31,12 @@ https://pt.rakko.tools/tools/46/
 Hash criptografia seguranca
 
 npm install bcrypt
+
+
+Node js Express Insert Data From Form into MySQL Database
+
+https://www.tutsmake.com/node-js-express-insert-data-from-form-into-mysql-database/
+
+https://www.w3schools.com/nodejs/nodejs_mysql_insert.asp
+
+
